@@ -1,3 +1,3 @@
 public class A{
-     public main 
+     public main eeee
 }
